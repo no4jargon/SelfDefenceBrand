@@ -8,6 +8,15 @@
   --text-light: #f3ede9;
 }
 
+/* Semantic text utilities */
+.text-mocha {
+  color: #6c5d55;
+}
+
+.text-ink {
+  color: #2d2621;
+}
+
 * {
   box-sizing: border-box;
 }
