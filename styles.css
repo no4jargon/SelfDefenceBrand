@@ -105,6 +105,7 @@ section {
 .section-inner {
   display: grid;
   gap: 2rem;
+  padding: 0 1.5rem;
 }
 
 .section-header {
