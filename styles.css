@@ -246,6 +246,17 @@ button:active {
   margin: 0;
 }
 
+.form-feedback {
+  margin: 0;
+  padding: 0.85rem 1rem;
+  border-radius: 0.9rem;
+  background: rgba(230, 197, 187, 0.14);
+  color: inherit;
+  border: 1px solid rgba(230, 197, 187, 0.35);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
 .optional-note.light {
   color: #4f443d;
 }
