@@ -1,0 +1,17 @@
+{
+  "name": "selfdefencebrand",
+  "version": "1.0.0",
+  "description": "Landing page with survey and contact submissions.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node -e \"require('./server'); console.log('server module loaded');\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
